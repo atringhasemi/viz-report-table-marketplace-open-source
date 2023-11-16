@@ -151,7 +151,7 @@ th.headerCell {
 }
 
 .nonNumeric {
-  text-align: left;
+  text-align: right;
 }
 
 .numeric {
