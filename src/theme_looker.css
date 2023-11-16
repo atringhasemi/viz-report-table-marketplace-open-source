@@ -15,10 +15,8 @@ body {
 }
 */
 
-#tooltip p, .reportTable td, .repoertTable th {
-  text-align: center !important;
-  /*align-items: center !important;
-  justify-content: center !important;*/
+#tooltip, .reportTable th, .reportTable td {
+  text-align: center;
 }
 
 #tooltip {
