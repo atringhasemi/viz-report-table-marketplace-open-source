@@ -14,14 +14,14 @@
   font-family: sans-serif;
   font-size: 12px;
   z-index: 2;
-  text-align: center;
+  text-align: right;
 
   /* Add customization here  */
 }
 
 #tooltip.hidden {
   display: none;
-  text-align: center;
+  text-align: right;
 
   /* Add customization here  */
 }
@@ -31,7 +31,7 @@
   font-family: sans-serif;
   font-size: 12px;
   line-height: 15px;
-  text-align: center;
+  text-align: right;
 
   /* Add customization here  */
 }
@@ -42,37 +42,37 @@
   border: 1px solid #cccccc;
   border-collapse: collapse;
   border-spacing: 3px;
-  text-align: center;
+  text-align: right;
 
   /* Add customization here  */
 }
 
 .reportTable th {
-  color: #bbcfff;
+  color: #fffabb;
   border: 1px solid #cccccc;
   border-bottom: 1px solid #cccccc !important;
   /* font-size: 10px;  */
   /* height: 25px; */
   padding: 5px;
-  text-align: center;
+  text-align: right;
 
   /* Add customization here  */
 }
 
 .reportTable td {
-  color: #bbcfff;
+  color: #fffabb;
   vertical-align: super;
   padding: 5px;
   /*background: #FFFFFF;*/
   border: 1px solid #cccccc;
   border-collapse: collapse;
-  text-align: center;
+  text-align: right;
 
   /* Add customization here  */
 }
 
 .left {
-  text-align: center;
+  text-align: right;
 
   /* Add customization here  */
 }
@@ -85,7 +85,7 @@
 
 .indent {
   padding-left: 15px !important;
-  text-align: center;
+  text-align: right;
 
   /* Add customization here  */
 }
@@ -94,7 +94,7 @@
   font-style: italic;
   font-weight: bold;
   background: #d3d3d3;
-  text-align: center;
+  text-align: right;
 
   /* Add customization here  */
 }
@@ -102,7 +102,7 @@
 .total {
   border-top: 2px solid #000000 !important;
   font-weight: bold !important;
-  text-align: center;
+  text-align: right;
 
   /* Add customization here  */
 }
@@ -110,7 +110,7 @@
 .total.transposed {
   border-top: 0px !important;
   background: #d3d3d3;
-  text-align: center;
+  text-align: right;
 
   /* Add customization here  */
 }
