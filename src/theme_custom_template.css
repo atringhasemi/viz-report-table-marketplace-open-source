@@ -1,3 +1,7 @@
+body {
+  text-align: center;
+}
+
 #tooltip {
   text-align: center !important;
   position: absolute;
