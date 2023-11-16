@@ -4,7 +4,7 @@
   width: auto;
   height: auto;
   padding: 5px;
-  background-color: white;
+  background-color: red;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
@@ -15,7 +15,6 @@
   font-family: sans-serif;
   font-size: 12px;
   z-index: 2;
-  text-align: right;
 
   /* Add customization here  */
 }
@@ -49,7 +48,7 @@
 }
 
 .reportTable th {
-  color: #fffabb;
+  color: #bbc0ff;
   border: 1px solid #cccccc;
   border-bottom: 1px solid #cccccc !important;
   /* font-size: 10px;  */
@@ -61,7 +60,7 @@
 }
 
 .reportTable td {
-  color: #fffabb;
+  color: #bbc0ff;
   vertical-align: super;
   padding: 5px;
   /*background: #FFFFFF;*/
