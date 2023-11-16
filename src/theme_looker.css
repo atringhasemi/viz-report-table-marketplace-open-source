@@ -43,7 +43,7 @@
 }
 
 .hover {
-  background-color: #ffffbb;
+  background-color: #ffd4bb;
 }
 
 .reportTable {
@@ -106,7 +106,6 @@ th.headerCell {
 
 .rowCell {
   vertical-align: super;
-  horizontal-align: super;
   padding-left: 5px;
   border-bottom: 1px solid #bdc3c7;
 }
@@ -152,7 +151,7 @@ th.headerCell {
 }
 
 .nonNumeric {
-  text-align: right;
+  text-align: left;
 }
 
 .numeric {
