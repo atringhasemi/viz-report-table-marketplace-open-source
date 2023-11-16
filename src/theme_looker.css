@@ -13,12 +13,16 @@ body {
   text-align: center !important;
 }
 
+#tooltip, .reportTable th, .reportTable td {
+  text-align: center !important;
+}
+
 #tooltip {
   position: absolute;
   width: auto;
   height: auto;
   padding: 5px;
-  background-color: red;
+  background-color: blue;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
