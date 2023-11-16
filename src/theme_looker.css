@@ -59,22 +59,25 @@ th.headerCell {
   background-color: #ccd8e4;
   padding: 5px;
   border-bottom: 1px solid #bdc3c7;
+  text-align: center;
 }
 
 .headerCell.dimension {
   background-color: #e4ecf3;
   border-right: 1px solid #bdc3c7;
+  text-align: center;
 }
 
 .headerCell.pivot {
   background-color: #ccd8e4;
   border-right: 1px solid #bdc3c7;
+  text-align: center;
 }
 
 .headerCell.measure {
   background-color: #e4d0bd;
   border-left: 1px solid #bdc3c7;
-  text-align: right;
+  text-align: center;
 }
 
 .headerCell.measure.calculation {
@@ -109,10 +112,12 @@ th.headerCell {
   vertical-align: super;
   padding-left: 5px;
   border-bottom: 1px solid #bdc3c7;
+  text-align: center;
 }
 
 .rowCell.merged {
   background-color: #ffffff !important;
+  text-align: center;
 }
 
 .indexCell.transposed {
@@ -152,11 +157,11 @@ th.headerCell {
 }
 
 .nonNumeric {
-  text-align: left;
+  text-align: center;
 }
 
 .numeric {
-  text-align: right;
+  text-align: center;
 }
 
 .negative {
@@ -175,11 +180,13 @@ th.headerCell {
   font-style: italic;
   font-weight: bold;
   background: #d3d3d3;
+  text-align: center;
 }
 
 .total {
   border-top: 2px solid #696969 !important;
   font-weight: bold !important;
+  text-align: center;
 }
 
 .total.transposed {
