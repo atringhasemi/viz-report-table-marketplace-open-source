@@ -15,7 +15,7 @@ body {
 }
 */
 
-#tooltip p, .reportTable td {
+#tooltip p, .reportTable td, .repoertTable th {
   text-align: center !important;
   /*align-items: center !important;
   justify-content: center !important;*/
