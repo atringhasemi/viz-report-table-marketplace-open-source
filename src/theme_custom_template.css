@@ -48,7 +48,7 @@
 }
 
 .reportTable th {
-  color: #000000;
+  color: #bbcfff;
   border: 1px solid #cccccc;
   border-bottom: 1px solid #cccccc !important;
   /* font-size: 10px;  */
@@ -60,7 +60,7 @@
 }
 
 .reportTable td {
-  color: #000000;
+  color: #bbcfff;
   vertical-align: super;
   padding: 5px;
   /*background: #FFFFFF;*/
