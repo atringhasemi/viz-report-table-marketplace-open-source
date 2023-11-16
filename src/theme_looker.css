@@ -74,6 +74,7 @@ th.headerCell {
 .headerCell.measure {
   background-color: #e4d0bd;
   border-left: 1px solid #bdc3c7;
+  text-align: right;
 }
 
 .headerCell.measure.calculation {
@@ -151,11 +152,11 @@ th.headerCell {
 }
 
 .nonNumeric {
-  text-align: center;
+  text-align: left;
 }
 
 .numeric {
-  text-align: center;
+  text-align: right;
 }
 
 .negative {
