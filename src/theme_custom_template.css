@@ -1,9 +1,9 @@
 body {
-  text-align: center;
+  text-align: center !important;
 }
 
 #tooltip, .reportTable th, .reportTable td {
-  text-align: center;
+  text-align: center !important;
 }
 
 
@@ -13,7 +13,7 @@ body {
   width: auto;
   height: auto;
   padding: 5px;
-  background-color: red;
+  background-color: green;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
