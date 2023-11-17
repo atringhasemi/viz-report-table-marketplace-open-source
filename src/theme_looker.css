@@ -14,13 +14,13 @@
 #tooltip, .reportTable th, .reportTable td {
   text-align: center !important;
 }
-
+/*
 .reportTable th, .reportTable td {
   width: 500px; /* Adjust the width as needed */
   overflow: hidden;
   white-space: normal;
 }
-
+*/
 
 /* ========== */
 #tooltip {
