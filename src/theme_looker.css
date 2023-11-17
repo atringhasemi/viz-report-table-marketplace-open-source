@@ -14,12 +14,15 @@
 #tooltip, .reportTable th, .reportTable td {
   text-align: center !important;
 }
-/*
+
 .reportTable th, .reportTable td {
+  width: 150px; /* Adjust the width as needed */
+  overflow: hidden;
+  text-overflow: ellipsis; /* Add ellipsis for overflowed content */
   white-space: nowrap;
-  width: auto;
 }
-*/
+
+
 /* ========== */
 #tooltip {
   position: absolute;
