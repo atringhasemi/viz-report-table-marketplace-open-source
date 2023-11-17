@@ -9,16 +9,18 @@
     format('woff2');
 }
 
-/*
-body {
-  text-align: center !important;
-}
-*/
+/* Atrin Modifications */
 
 #tooltip, .reportTable th, .reportTable td {
   text-align: center !important;
 }
 
+.reportTable th, .reportTable td {
+  white-space: nowrap;
+  width: auto;
+}
+
+/* ========== */
 #tooltip {
   position: absolute;
   width: auto;
