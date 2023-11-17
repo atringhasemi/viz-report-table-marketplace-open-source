@@ -16,10 +16,9 @@
 }
 
 .reportTable th, .reportTable td {
-  width: 10px; /* Adjust the width as needed */
+  width: 150px; /* Adjust the width as needed */
   overflow: hidden;
-  text-overflow: ellipsis; /* Add ellipsis for overflowed content */
-  white-space: nowrap;
+  white-space: normal;
 }
 
 
